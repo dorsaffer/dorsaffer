@@ -11,6 +11,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorsaffer&show_icons=true&theme=dracula)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorsaffer&show_icons=true&theme=dracula&count_private=false&include_all_commits=true" alt="dorsaf" />
-
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorsaffer&theme=dracula&layout=compact&count_private=false&hide=jupyter%20notebook,php,asp,css&langs_count=10" />
 
