@@ -1,4 +1,4 @@
-### Hi there, I'm Dorsaf, Software Ingenniring 👋
+### Hi there, I'm Dorsaf, Software engineer 👋
 
 - 💻 Currently working as web developer Intern at Think-it
 - 🌱 On my way to grow by learning everything I can
