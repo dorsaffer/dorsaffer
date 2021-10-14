@@ -1,6 +1,6 @@
 ### Hi there, I'm Dorsaf, Software engineer 👋
 
-- 💻 Currently working as web developer Intern at Think-it
+- 💻 Currently working as a full time software engineer at Think-it
 - 🌱 On my way to grow by learning everything I can
 - :dart: 2021 Goals: Graduate, learn more and more
 - :100: Best quote I love “The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.” By Franklin D. Roosevelt
