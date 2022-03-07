@@ -2,7 +2,7 @@
 
 - 💻 Currently working as a full time software engineer at Think-it
 - 🌱 On my way to grow by learning everything I can
-- :dart: 2021 Goals: Graduate, learn more and more
+- :dart: Goals: learn more and more everyday 
 - :100: Best quote I love “The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.” By Franklin D. Roosevelt
 
 ---
